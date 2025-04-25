@@ -83,6 +83,10 @@ body {
         font-size: 0.9rem;
         color: #666;
     }
+
+    & small {
+        color: #333;
+    }
 }
 
 /* メインここまで */
