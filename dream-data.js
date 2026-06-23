@@ -1,7 +1,7 @@
 /**
- * @type {{dreamer: string; title: string; date: string; content: string}}
+ * @type {{dreamer: string; title: string; date: string; content: string}[]}
  */
-const dreamData = [
+const dreamDataList = [
     // {
     //     dreamer: "いぽた",
     //     title: "",
